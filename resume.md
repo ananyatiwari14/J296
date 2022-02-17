@@ -8,3 +8,7 @@ Data Journalism Markdown practice resume.
 2. Narrative writing <br>
 3. GitHuB <br>
 ## Employment ## <br>
+|  **Employer** 	| **Job Description**  	|
+| University of California, Berkeley	| Graduate Student Instructor for Asian & American Studies|
+| The Indian Express| Correspondent for the Delhi news team |
+| Diplomacy & Beyond Plus magazine | Assistant Editor|
