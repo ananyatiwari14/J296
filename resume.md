@@ -7,9 +7,9 @@ Data Journalism Markdown practice resume.
 1. Reporting <br>
 2. Narrative writing <br>
 3. GitHuB <br>
-## Employment ## <br>
-|  **Employer** 	| **Job Description**  	| <br>
-| ------------------------------------:| --------------------------------------------------------: |
-| University of California, Berkeley	| Graduate Student Instructor for Asian & American Studies| <br>
-| The Indian Express| Correspondent for the Delhi news team | <br>
-| Diplomacy & Beyond Plus magazine | Assistant Editor| <br> 
+## Employment  <br>
+|  **Employer**  | **Job Description** |
+| ------------- | ------------- |
+| University of California, Berkeley  | Graduate Student Instructor for Asian & American Studies <br> * Organized course content <br> * Created slides for discussion sections <br>|
+| The Indian Express  | Correspondent for the Delhi news team <br> * Wrote breaking news reports <br> * Carried out investigation on labor issues, municipalities, etc <br> |
+| Diplomacy & Beyond Plus magazine  | Assistant Editor <br> * Organized course content <br> * Proofread the magazine drafts <br> |
