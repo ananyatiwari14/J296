@@ -10,6 +10,6 @@ Data Journalism Markdown practice resume.
 ## Employment  <br>
 |  **Employer**  | **Job Description** |
 | ------------- | ------------- |
-| University of California, Berkeley  | Graduate Student Instructor for Asian & American Studies <br> * Organized course content <br> * Created slides for discussion sections <br>|
+| University of California, Berkeley  | Graduate Student Instructor for the Introduction to Asian & American Studies course <br> * Organized course content <br> * Created slides for discussion sections <br>|
 | The Indian Express  | Correspondent for the Delhi news team <br> * Wrote breaking news reports <br> * Carried out investigation on labor issues, municipalities, etc <br> |
 | Diplomacy & Beyond Plus magazine  | Assistant Editor <br> * Organized course content <br> * Proofread the magazine drafts <br> |
